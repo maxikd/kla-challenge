@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlaChallenge.Web", "KlaChal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlaChallenge.UnitTests", "KlaChallenge.UnitTests\KlaChallenge.UnitTests.csproj", "{EEA6103C-2E74-4441-B31B-BE3C57909418}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlaChallenge.Converter", "KlaChallenge.Converter\KlaChallenge.Converter.csproj", "{6F5BF84E-8B00-4EA5-8F9F-7C1B6001CB3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EEA6103C-2E74-4441-B31B-BE3C57909418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEA6103C-2E74-4441-B31B-BE3C57909418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEA6103C-2E74-4441-B31B-BE3C57909418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5BF84E-8B00-4EA5-8F9F-7C1B6001CB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5BF84E-8B00-4EA5-8F9F-7C1B6001CB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5BF84E-8B00-4EA5-8F9F-7C1B6001CB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5BF84E-8B00-4EA5-8F9F-7C1B6001CB3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
