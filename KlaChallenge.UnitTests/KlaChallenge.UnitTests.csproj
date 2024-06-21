@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KlaChallenge.Web\KlaChallenge.Web.csproj" />
+    <ProjectReference Include="..\KlaChallenge.Converter\KlaChallenge.Converter.csproj" />
   </ItemGroup>
 
 </Project>
